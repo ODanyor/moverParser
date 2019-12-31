@@ -1,2 +1,2 @@
 # moverParser
-Just a little web scraping script
+Web scraping script for https://mover.uz/
